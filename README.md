@@ -126,11 +126,3 @@ src/
 * **Sahiru Praveen Ratnayake**
 * Colombo University
 
----
-
-```
-
----
-
-👉 Would you like me to also add **GitHub-style badges** (like JDK version, Database, Build tool) at the top of the README to make it look even more professional?
-```
