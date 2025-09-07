@@ -7,34 +7,34 @@
 This is a **Java + MySQL mini project** developed for the **IT 3003 APT module**.  
 The application demonstrates database connectivity, CRUD operations, and a simple **UI/UX** built with Swing.
 
----
 
-## 📌 About the Project
-The **Student Database Management System** allows users to:
 
-- ➕ Add new student records  
-- 📋 View all students in a table  
-- ✏️ Update student details  
-- ❌ Delete student records  
-- 🔍 Search students by ID or name  
+  About the Project
+The Student Database Management System allows users to:
+
+  Add new student records  
+  View all students in a table  
+ ✏ Update student details  
+  Delete student records  
+  Search students by ID or name  
 
 The backend is written in **Java (JDK 24)** using **JDBC** with **MySQL 8.0** as the database.  
 A simple **Swing-based UI** provides an easy way to interact with the system.
 
 ---
 
-## 🛠️ Tech Stack
-- **Language**: Java 24  
-- **Database**: MySQL 8.0+  
-- **Connector**: MySQL Connector/J 8.4  
-- **IDE**: IntelliJ IDEA Community Edition  
-- **UI**: Java Swing  
+## Tech Stack
+-Language: Java 24  
+-Database: MySQL 8.0+  
+- Connector: MySQL Connector/J 8.4  
+- IDE: IntelliJ IDEA Community Edition  
+- UI: Java Swing  
 
 ---
 
-## ⚙️ Setup Instructions
+ ⚙️ Setup Instructions
 
-### 1. Clone or Download the Repository
+ 1. Clone or Download the Repository
 ```bash
 git clone https://github.com/yourusername/student-database-mini.git
 cd student-database-mini
