@@ -1,5 +1,5 @@
 
----
+
 
 ````markdown
 # 🎓 Student Database Mini Project
@@ -66,14 +66,7 @@ INSERT INTO student (name, email, course, gpa) VALUES
 ('Sahan Kumara', 'sahan@example.com', 'OOP', 3.20);
 ```
 
-### 3. Configure Database Connection
-
-In `DBConnection.java`, set your credentials:
-
-```java
-private static final String USER = "root";       // your MySQL username
-private static final String PASS = "your_password"; // your MySQL password
-```
+###
 
 ### 4. Run the Project
 
@@ -99,8 +92,6 @@ src/
                  └── StudentApp.java # Swing UI (Add, View, Search Students)
 ```
 
----
-
 ## 🏆 Features Implemented
 
 1. Correct implementation of **CRUD** operations
@@ -112,14 +103,6 @@ src/
 3. Organized, readable code (OOP design)
 4. Simple but functional **UI with Swing**
 5. (Bonus) Input validation and search options
-
----
-
-## 📸 Screenshots (optional)
-
-*Add screenshots of your IntelliJ, DB, and running UI here*
-
----
 
 ## 👨‍💻 Author
 
